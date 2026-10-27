@@ -1,0 +1,8 @@
+Data nilai: [85, 90, 78, 92, 88, 90, 76, 95, 89, 90]
+Jumlah data : 10
+Mean        : 87.30
+Median      : 89.50
+Modus       : 90
+Range       : 19
+Std. Dev    : 5.71
+Verifikasi (math.sqrt): 5.71

@@ -1,0 +1,24 @@
+== CREATE ==
+  [OK] Mahasiswa Muhammad Dzikri Sagara ditambahkan.
+  [OK] Mahasiswa Muhammad Alamsyah ditambahkan.
+  [OK] Mahasiswa Fakhry Ahmad Fauzan ditambahkan.
+
+== READ (semua) ==
+  - Mahasiswa(nim='20241320004', nama='Muhammad Dzikri Sagara', jurusan='Sistem Informasi', ipk=3.75)
+  - Mahasiswa(nim='20241320030', nama='Muhammad Alamsyah', jurusan='Sistem Informasi', ipk=3.6)
+  - Mahasiswa(nim='20241320038', nama='Fakhry Ahmad Fauzan', jurusan='Sistem Informasi', ipk=3.8)
+
+== READ (satu, NIM 20241320004) ==
+  Mahasiswa(nim='20241320004', nama='Muhammad Dzikri Sagara', jurusan='Sistem Informasi', ipk=3.75)
+
+== UPDATE (IPK 20241320004 -> 3.85) ==
+  [OK] Data NIM 20241320004 diperbarui.
+  Mahasiswa(nim='20241320004', nama='Muhammad Dzikri Sagara', jurusan='Sistem Informasi', ipk=3.85)
+
+== DELETE (NIM 20241320030) ==
+  [OK] Mahasiswa NIM 20241320030 dihapus.
+
+== READ (sisa) ==
+  - Mahasiswa(nim='20241320004', nama='Muhammad Dzikri Sagara', jurusan='Sistem Informasi', ipk=3.85)
+  - Mahasiswa(nim='20241320038', nama='Fakhry Ahmad Fauzan', jurusan='Sistem Informasi', ipk=3.8)
+  Total mahasiswa: 2

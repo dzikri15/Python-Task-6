@@ -1,0 +1,105 @@
+{
+  "total_user": 10,
+  "rata_rata_panjang_nama": 16.5,
+  "user_nama_panjang": [
+    {
+      "nama": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "kota": "McKenziehaven",
+      "perusahaan": "Romaguera-Jacobson"
+    },
+    {
+      "nama": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "kota": "South Elvis",
+      "perusahaan": "Robel-Corkery"
+    },
+    {
+      "nama": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "kota": "Roscoeview",
+      "perusahaan": "Keebler LLC"
+    },
+    {
+      "nama": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "kota": "South Christy",
+      "perusahaan": "Considine-Lockman"
+    },
+    {
+      "nama": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "kota": "Aliyaview",
+      "perusahaan": "Abernathy Group"
+    },
+    {
+      "nama": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "kota": "Lebsackbury",
+      "perusahaan": "Hoeger LLC"
+    }
+  ],
+  "jumlah_user_nama_panjang": 6,
+  "user_urut_kota": [
+    {
+      "nama": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "kota": "Aliyaview",
+      "perusahaan": "Abernathy Group"
+    },
+    {
+      "nama": "Glenna Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "kota": "Bartholomebury",
+      "perusahaan": "Yost and Sons"
+    },
+    {
+      "nama": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "kota": "Gwenborough",
+      "perusahaan": "Romaguera-Crona"
+    },
+    {
+      "nama": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "kota": "Howemouth",
+      "perusahaan": "Johns Group"
+    },
+    {
+      "nama": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "kota": "Lebsackbury",
+      "perusahaan": "Hoeger LLC"
+    },
+    {
+      "nama": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "kota": "McKenziehaven",
+      "perusahaan": "Romaguera-Jacobson"
+    },
+    {
+      "nama": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "kota": "Roscoeview",
+      "perusahaan": "Keebler LLC"
+    },
+    {
+      "nama": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "kota": "South Christy",
+      "perusahaan": "Considine-Lockman"
+    },
+    {
+      "nama": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "kota": "South Elvis",
+      "perusahaan": "Robel-Corkery"
+    },
+    {
+      "nama": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "kota": "Wisokyburgh",
+      "perusahaan": "Deckow-Crist"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+
+Data benar: {'nama': 'Muhammad Dzikri Sagara', 'nim': '20241320004', 'umur': 20, 'ipk': 3.75, 'jurusan': 'Sistem Informasi'}
+Valid: True
+
+Data salah: {'nama': 'Budi', 'nim': '12345', 'umur': 15, 'ipk': 4.5, 'jurusan': 'Kedokteran'}
+Valid: False
+Errors:
+  - Field 'umur' minimal 17, got 15.
+  - Field 'ipk' maksimal 4.0, got 4.5.
+  - Field 'jurusan' harus salah satu dari ['Sistem Informasi', 'Informatika'].
+  - Field 'nim' harus berupa 11 digit angka.

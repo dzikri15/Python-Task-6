@@ -1,0 +1,25 @@
+Data berhasil diambil: 10 user dari https://jsonplaceholder.typicode.com/users
+
+Total user: 10
+Rata-rata panjang nama: 16.5 karakter
+User dengan nama > 15 karakter: 6
+  - Clementine Bauch (McKenziehaven)
+  - Patricia Lebsack (South Elvis)
+  - Chelsey Dietrich (Roscoeview)
+  - Mrs. Dennis Schulist (South Christy)
+  - Nicholas Runolfsdottir V (Aliyaview)
+  - Clementina DuBuque (Lebsackbury)
+
+User diurutkan berdasarkan kota:
+  - Aliyaview: Nicholas Runolfsdottir V
+  - Bartholomebury: Glenna Reichert
+  - Gwenborough: Leanne Graham
+  - Howemouth: Kurtis Weissnat
+  - Lebsackbury: Clementina DuBuque
+  - McKenziehaven: Clementine Bauch
+  - Roscoeview: Chelsey Dietrich
+  - South Christy: Mrs. Dennis Schulist
+  - South Elvis: Patricia Lebsack
+  - Wisokyburgh: Ervin Howell
+
+Hasil analisis disimpan ke hasil_analisis.json

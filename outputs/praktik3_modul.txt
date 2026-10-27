@@ -1,0 +1,4 @@
+Mode testing utilitas_akademik:
+konversi_nilai_huruf(85) = A
+konversi_nilai_huruf(72) = B
+hitung_ipk([(3, 85), (3, 90), (2, 78)]) = 3.75

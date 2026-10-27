@@ -1,0 +1,7 @@
+Transkrip Nilai - Muhammad Dzikri Sagara (20241320004)
+  SI101 Pemrograman Python (3 SKS): 90 (A, bobot 4)
+  SI102 Basis Data (3 SKS): 85 (A, bobot 4)
+  SI103 Analisis Sistem (3 SKS): 78 (B, bobot 3)
+  SI104 Jaringan Komputer (2 SKS): 88 (A, bobot 4)
+Total SKS: 11
+IPK: 3.73
